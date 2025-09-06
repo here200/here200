@@ -2,9 +2,9 @@ Comes from China.
 
 
 
-很多仓库，是我在大学期间【2019-2023】创建。现已从学校毕业。
+There are many repositories created during my university career in 2019 - 2023 and I have graduated.
 
-目前没有太多心思花费在仓库上。
+However, now I don't have much time on this.
 
 
 
